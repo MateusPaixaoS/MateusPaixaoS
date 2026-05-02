@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mateus Santos
 
-<!--
-**MateusPaixaoS/MateusPaixaoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Accounting student at the University of South Florida, working toward a career in accounting and financial analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+- 📚 Studying Accounting at USF
+- 💼 Interested in careers in public accounting, financial analysis, or corporate accounting
+- 🌱 Currently learning Python to apply programming to financial data and reporting
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Tools / Languages |
+
+| Programming | Python (in progress) |
+| Accounting Software | Excel |
+
+
+---
+
+## 📂 Coursework & Projects
+
+This repository will grow throughout the semester as I complete projects in my Python for Business course (ISM2411) at USF.
+
+---
+
+## 📫 Connect with Me
+
+- 📧 paixao@usuf.edu
+
+---
+
+*Last updated: May 2026*
